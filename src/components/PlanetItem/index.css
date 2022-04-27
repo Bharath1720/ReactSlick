@@ -1,0 +1,23 @@
+.image {
+  height: 300px;
+}
+.name {
+  color: #f8fafc;
+  font-family: 'Roboto';
+}
+.description {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+  text-align: center;
+}
+.main-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png');
+  min-height: 100vh;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+}
